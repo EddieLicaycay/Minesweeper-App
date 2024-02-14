@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import createBoard from '../board/boardMatrix';
+import createBoard from '../board/createBoard';
 import Cell from './cell';
 
 const Board = () => {
